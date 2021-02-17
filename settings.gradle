@@ -1,2 +1,3 @@
 rootProject.name = 'spring-security-app'
+include 'spring-security-jwt'
 
